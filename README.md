@@ -1,3 +1,7 @@
+We have implemented Aspect wise reviews analysis and in order to do it, We have used YELP API to collect informations like ratings, address, latitude-longitude, categories and Urls.
+With urls of restaurants, we collected reviews of all pages for each restaurant. 
+
+
 We have used following modules to alleviate the task and fulfill our objective.
 
 re:  A regular expression (or re) specifies a set of strings that matches it; the functions in this module let you check if a particular string matches a given regular expression or if a given regular expression matches a particular string. I have used it to fetch all name of restaurants and their latitude and longitude under patina group.
